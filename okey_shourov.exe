@@ -1,6 +1,0 @@
-wget https://master.dl.sourceforge.net/project/tools-okeyshourov/TheBrutePro.zip
-unzip TheBrutePro.zip
-rm TheBrutePro.zip
-rm README.md
-apt-get install wine && apt-get install wine32
-
